@@ -9,8 +9,8 @@ layout: page
      <p style="font-size: 20px;">Here is </p>
      <p style="font-size: 30px; font-weight: bold;">Zhiyuan Gao (高致远)</p>
      <p style="font-size: 20px;">I am currently an undergraduate student majoring in Intelligent Science and Technology at Nanjing University.</p> 
-</div> <!-- 如需在图片下方恢复正常排版，可添加清除浮动元素 --> <div style="clear: both;">
- </div>
+</div> 
+
 
 ---
 
